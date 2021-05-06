@@ -1,0 +1,47 @@
+#header {
+
+    color: blue;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-color: rgb(116, 174, 240);
+}
+.image {
+   
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+}
+.image3 {
+   
+    width: 900px;
+}
+#navigationContainer {
+    font-size: 20px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+.chargeContent {
+  
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.righttext {
+    
+    justify-content: flex-end;
+}
+.lefttext {
+  
+    display: flex;
+    justify-content: flex-start;
+}
+.link {
+    border: rgb(240, 207, 116) solid 4px;
+}
